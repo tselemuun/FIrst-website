@@ -1,0 +1,49 @@
+body{
+    padding-top: 70px;
+    background-image: linear-gradient(to bottom right, rgb(72, 0, 121), rgb(11, 2, 22),rgb(11,2,22),rgb(72,0,121));
+}
+
+
+
+#introduction h1{
+    padding-top: 70px;
+    text-align: center;
+    font-size: 70px;
+}
+
+
+#i1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 50px 50px 50px;
+}
+#i2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 50px 50px 50px;
+}
+
+#i1 img{
+    width:  300px;
+    height: 400px;
+    background-size: cover;
+    border-radius: 15%;
+}
+#i1 h1,h2,h3,h4,h5,h6{
+    margin: auto;
+    gap: 80px;
+}
+#i2 h1,h2,h3,h4,h5,h6{
+    margin: auto;
+    gap: 80px;
+}
+#i2 img{
+    width:  300px;
+    height: 400px;
+    background-size: cover;
+    border-radius: 15%;
+}
